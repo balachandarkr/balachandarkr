@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balachandarkr
-- 👀 I’m interested in tech stuff and learning new tech stacks and especially in identifying performance bottleneck
+- 👀 I’m interested in learning new tech stacks and especially in identifying performance bottleneck
 - 🌱 I’m currently learning terraform, docker, kubernates - devops essentialls
 - 📫 How to reach me https://in.linkedin.com/in/balachandarrajendran or balachandarkr9@gmail.com
 
